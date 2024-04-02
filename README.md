@@ -46,7 +46,7 @@ This script will clone the LangChain repository, load the source code as documen
 
 ## Example Question
 
-The example question provided in the code is:
+The example question:
 
 What is the class hierarchy? 
 
